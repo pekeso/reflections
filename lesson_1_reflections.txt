@@ -1,0 +1,49 @@
+Joe's Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you spot the bug?
+
+It was helpful because it narrowed down the number of lines to compare thus 
+increasingly reducing the time to compare and it showed us only where there were 
+differences between the files. 
+If we had to look at 2000+ lines codes for the two files, it would have took 
+us a few hours just to spot the bug.
+
+2) How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+By eliminating the time needed to find out why this part of the code was working 
+before and no longer working.
+It makes it easy to revert back to a code that was working before and that will 
+make easy to find out the mistake that was added to the code.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros:
+- you'll have a history of logical changes not randomly saved files
+- it makes it easy to remember and spot differences between versions
+
+Cons:
+- you may forget to commit some changes
+- you may easily add a very big commit which can make it difficult to understand
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git like VCS are made for bigger projects in mind where many files can be 
+related to each other.
+Google Docs doesn't allow it because changing multiple files in Google Docs happens
+very seldom.
+
+5)How can you use the commands git log and git diff to view the history of files?
+
+- git log: to view the history of the whole project; it gives a top level view of every
+commit that happened since the creation of the project
+- git diff: to view the details of difference between two files in a given repository
+
+6) How might using version control make you more confident to make changes that could break something?
+
+Knowing that you can always revert back to a code that was fully working, you'll have 
+that confidence in altering different parts of a project.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to start an Android project and start using Git as a VCS.
