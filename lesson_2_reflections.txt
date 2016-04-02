@@ -24,3 +24,9 @@ organized? How would branches help?
 - In adding a new language 
 Branches help keep having the original file unchanged while we have the freedom to 
 experiment on new stuffs.
+
+5) How do the diagrams help you visualize the branch structure?
+
+It helps by seeing the number of branches we have and how they are inter-related.
+It also helps visualizing the history for each branch and see if there are commits
+that don't affect any branch.
