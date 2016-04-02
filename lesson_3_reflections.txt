@@ -12,7 +12,9 @@ Because I want to be in control of the local repository should look like.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+ - fork: only works on GitHub servers
+ - clone: works from GitHub server to local repo or from local repo to local
+ - branch: works on commits both locally and on GitHub servers
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
