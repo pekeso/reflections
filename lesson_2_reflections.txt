@@ -31,8 +31,21 @@ It helps by seeing the number of branches we have and how they are inter-related
 It also helps visualizing the history for each branch and see if there are commits
 that don't affect any branch.
 
-6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+6) What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
 
 The result brings together the commits that were on the two branches
 
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+Pros automatic:
+- you don't have to worry about the details of merging commits
+
+Pros manual:
+- you have the total control of the commit before you merge them
+
+Cons automatic:
+- can be pretty easy to slip in a mistake in the code
+
+Cons manual:
+- the task of going through commits manually can be tiresome
