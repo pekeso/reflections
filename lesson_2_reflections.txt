@@ -17,3 +17,10 @@ area.
 By using the git diff --staged command to verify that the change we made is a logical 
 change as compared to the last commit.
 
+4) What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+- In trying out an experimental feature while keeping the original safe
+- In adding a new language 
+Branches help keep having the original file unchanged while we have the freedom to 
+experiment on new stuffs.
