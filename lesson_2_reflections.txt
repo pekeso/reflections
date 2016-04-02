@@ -30,3 +30,9 @@ experiment on new stuffs.
 It helps by seeing the number of branches we have and how they are inter-related.
 It also helps visualizing the history for each branch and see if there are commits
 that don't affect any branch.
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result brings together the commits that were on the two branches
+
+
