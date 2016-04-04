@@ -31,4 +31,4 @@ We would have a local server and use VPN or file sharing on the internet
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When working on a new feature and want to share it with the team.
